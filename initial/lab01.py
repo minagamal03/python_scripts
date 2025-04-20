@@ -17,7 +17,7 @@ if __name__ == "__main__":
     #########################################
     # Add print statement here
     print('DevNet')
-    print('test')
+
 
     #########################################
     #              Procedure 2              #
