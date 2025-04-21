@@ -17,7 +17,7 @@ if __name__ == "__main__":
     #########################################
     # Add print statement here
     print('DevNet')
-    print('new branch ?')
+    print('New test ;)')
 
     #########################################
     #              Procedure 2              #
