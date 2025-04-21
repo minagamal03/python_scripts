@@ -17,7 +17,7 @@ if __name__ == "__main__":
     #########################################
     # Add print statement here
     print('DevNet')
-    print('New test ;)')
+
 
     #########################################
     #              Procedure 2              #
@@ -174,3 +174,4 @@ if __name__ == "__main__":
     for e in elementsInNSb:
         for i in e.iter():
             print(i.tag + ':' + i.text)
+
